@@ -1,6 +1,6 @@
 {
   "name": "hiveportalcom",
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "SDK for communication between a parent website (e.g. HIVEportal) and embedded apps via postMessage.",
   "repository": {
     "type": "git",
